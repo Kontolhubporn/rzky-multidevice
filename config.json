@@ -1,9 +1,9 @@
 {
-	"owner": ["6287892711054@s.whatsapp.net"],
-	"thumbvideo": "https://telegra.ph/file/51aa9701839dcc29066e9.mp4",
-	"thumb": "https://telegra.ph/file/d8dba7eee759ff82b35be.jpg",
+	"owner": ["6285723302803@s.whatsapp.net"],
+	"thumbvideo": "https://telegra.ph/file/39f38936533e2bb069ae8.mp4",
+	"thumb": "https://telegra.ph/file/edc5de656f800c728e35a.jpg",
 	"session": "rzkyfdlh-md.json",
-	"ownername": "Hyzer",
+	"ownername": "Jouvy",
 	"self": false,
 	"server": false,
 	"comment_server": "change 'server' with 'true', if you run in replit!",
@@ -11,8 +11,8 @@
 	"packInfo": { "packname": "HyzerDev", "author": "6287892711054" },
 	"namebot": "Shikimori Bot",
 	"timezone": "Asia/Jakarta",
-	"email": "hyzerofficial86@gmail.com",
-	"instagram": "https://instagram.com/zexyds_",
+	"email": "riskysatyr@gmail.com",
+	"instagram": "https://instagram.com/riskysatyr",
 	"locale": "id",
 	"ignore": {
 		"directory": ["umum"]
